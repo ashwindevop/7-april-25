@@ -11,4 +11,6 @@ main()
  print(a);
  print(B);
  print(c);
+ print(d);
+
 }

@@ -8,4 +8,5 @@ main()
  d=a-b;
  e=a*b;
  f=a/b;
+ print(a);
 }

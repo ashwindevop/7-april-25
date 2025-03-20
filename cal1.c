@@ -9,5 +9,6 @@ main()
  e=a*b;
  f=a/b;
  print(a);
- print(B)
+ print(B);
+ print(c);
 }
